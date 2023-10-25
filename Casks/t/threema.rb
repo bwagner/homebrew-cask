@@ -1,6 +1,6 @@
 cask "threema" do
   version "1.2.38"
-  sha256 :no_check
+  sha256 "afac10b8921aee980000b5b006aee9c0fea9e2774ead6b6e92c36d61b60bc9f9"
 
   url "https://releases.threema.ch/web-electron/v1/release/Threema-Latest.dmg"
   name "Threema"
